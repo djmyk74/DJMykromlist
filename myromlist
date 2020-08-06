@@ -1,1389 +1,331 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Playlist</title>
-	<trackList>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR HD, Srv 2</title>
-			<creator> Srv 2&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=960a2f2ac8d68ad42b4c889c8474e1c2181d8f96&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AxNsimple</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=7e87e9dba371e4272bc4aeaf9f904165aed97e07&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Planeta animalelor serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena lu1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=8cb69525386533f81c042f9e02d254f01b71d00c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>VH 1 Europe</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=0aa27943add0bd288fa953923e6625c9c190a9aa&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Fine living</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>NatG3o salbatic</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Crime investigation</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a46bdc1273d5a3004fca1a11e7b39b76c81d64c5&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery Crime inve</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=2014ffb126f9034e680f331cf4d1ea9a37366a23&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Paramount Channel</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Match Premier Ru</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=f763f99c6fae672f13e769a52fc1f56134d845a5&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Somax TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=4d9ce52fca8ce6e42a7a247baedf2e7c9b9a016f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cartoon S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a6a0afe5999a3a8117fddf369d004d47c1198a70&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>ProStv HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a31dc9f81c76e73f0fdb5e4e5700a40b67e500f7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Nick Jr</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=fb15e1f129827d4bf1d5657b20854d8569674679&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Match Futbol 2 Ru</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=ab49337b0392350389469b6c6e9c99ee601c2128&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Travel Discovery</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=428306b01ec262d0ba1de65c526b020abd3e612e&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Viasat History</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=f189266fd56439343c293cf92ed5ba01159dad6b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Realitatea TV Plus</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=8b40099da63d9bae22c8447dded2cb58ff56e81f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Epic Drama</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=c3ede4f21525482a4117f0d6b877700d343c7c7c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cinemax 2 server 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=2e75721c71458630cf77df3e779b708d0169ec51&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Kiss TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=db12109b0b1b048141a967e75a9acb2031477896&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Nickelodeon</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=2c707fd98f32a536521d471d2205973daf604772&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>History S1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Prima,TV S2</title>
-			<creator>TV S2&quot; group-title=&quot;entertaining&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=fa94e8d679229ff8c4afb58100746e025e386beb&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cc6e127ef4f3bfe3479f936b87558444b62550c6&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AMC movies</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>26</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=ec9af70a0d1b9765824a4d3c20a5d9fffba7540b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Prima TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>27</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=82dde5e64f82fe508e75a1f18317b8c7f5b36ca3&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena Stars</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>28</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a6ca4e83dc4d6c14be62f5768ca1c66ec67dacf3&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>29</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery ID</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>30</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=71fcd3086d7f8b426c1f3ca568e84dfeb38e2de1&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Film Cafe  serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>31</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=1e63297800944bf65fe07ea24297a2ed71214ad5&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Viasat Explorer</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>32</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=0c72ce84352f6a5c5c6210c3b6ed157cf726b121&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>RTV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>33</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=d177df77027b75186b63f2c3b618855dc0402064&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Eurosport 1 Ro</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>34</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=e89389fb0cca61b18bf1d1cdcecf98fb36058b1e&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Mooz Tv</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>35</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=01dced5b4868f54e4a519d3ecf101fa800dc0ccb&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>E Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=42761c2c54e3a50fffee0ff4b1d9e3c4ed82bdfa&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>ProTV International</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>37</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>38</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cc7773de5ac36307c042c44abe143a07e96f24a0&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TLC Discovery</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>39</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=2f3e3b42c24f779f20c89b3b125548a73350e538&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Disney Jr.</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>40</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AXN Black</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>41</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=3673db9f5177360b71f85c9e9655852131311134&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>NAT Geo HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=fcd13abdecf8c5d2eb897eb908961c4e0d9fbcf4&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Telekom 2 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>43</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=48b5e5e9b0182473741207e1d7a48aeea5c23b76&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>CBS Reality</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>44</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=b218aaacad702fa2df851f07403735a421b37e8b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR Int</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>45</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=34f4039f44a9fb282dd4689b99e6921dcd98dca6&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>B1 TV S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>46</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=90812c96e5160bb0d2271d50e93e675a3632aef0&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Nickelodeon server 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>47</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=657d1738e8ccfb89e631af6a1e7ff9e75c816c67&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena 1 HD serv 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>48</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>49</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=f568791fd70744443b9bf0343ac99015daab3d24&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Match Futbol 3 Ru</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>50</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>NAT Geo serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>51</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=72d7dc4b5eb02a7563347244abe32dc57d127a43&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>52</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a583c515691ebf8fd145a5492f00e9be7b78191c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Filmbox family</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>53</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=98c11147917968aa911a1838bd10508194e291b2&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Pimpletv.RU S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>54</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=df956051c479b95bdb2e552ec477326f8aa139fc&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Animal planet</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>55</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a17551d216736d6f44d5af5101c06f1e0ca868d2&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Paramount HD serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>56</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5cef77fc9811676f6eff9f8068987491fef97554&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Gigelsport 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>57</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=4aee337d80adca1e5a344fcf71c26d0f19756695&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AXN White</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>58</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=42f9ab94f7d7142a46a3e9315a61c0d7f4ad0610&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Match Futbol 1 Ru</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>59</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=75e360a816a248f0911f1f84abf72a34b82a8738&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cartoon</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>60</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5d5a62f7df276bf58ee646f1de40f5f014620d1e&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery Travel</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>61</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b6fa74e1961e4186054c1266c446d643b867e321&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Fishing and hunting</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>62</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>UTV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>63</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=90e593705efff864e642ec67370a64ad6b09d2dc&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cinemaraton</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>64</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=dd4d2afd78edbc76fd87ea1a240371c8d8b80539&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Comedy Central</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>65</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=00137cf2cc16d1a7588c87567439d625f3478475&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Minimax</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>66</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=038296b10c20ea36cf007e37c3988fb7a2d7527a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Gigelsport 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>67</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=3db8fd1388255b0911b01c8bc87a9e0cc4ea8fd0&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Kanal D S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>68</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=8fa1433959b7396989b9d6c14cbeec39faa07161&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Trinitas TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>69</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=4cb55f8171d3dbe374cc42b694c16234185c33d2&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>LooksSportiv 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>70</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=34b1402557fb7faab2979361c4e9650fa0948724&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cinemax</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>71</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=84c9d361d6439b6409c2cad427230770f4479868&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>fil,m now&quot; group-title=&quot;informational&quot;,G,igi,fil,m now</title>
-			<creator>igi</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>72</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=26ec0faf2671fe5b308277582a4b132f68cdda25&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>73</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b0a7335f9e31f02282983949ba3f238bba1da32f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Boome,rang</title>
-			<creator>rang&quot; group-title=&quot;entertaining&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>74</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=5e9f075c9f6703b4dd355f649c424d715570e51b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Eurosport 1 Ru</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>75</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a4724e84a0af0996b70e02af6ead6014c80993fc&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Telekom 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>76</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery Science</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>77</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=65df2563fde52bb3fc7d340941f80528f76bbc3b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Film Cafe</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>78</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=21fb811dfef6755e9fc1488bff7463fe0f5f14e4&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>LookPLus 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>79</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=20e3bc8d2be583b13c133a8a1b8d7896f8b72d67&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Discovery Channel</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>80</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=d59a1fa955bcc8d1c6018ae1a5fec5c375cf6b15&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>81</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=26c6ff732cf764ab43f0f40421d6b8d80dd90ea9&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Happy Chnl</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>82</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=aeabfc7e6b83fae685e3f1fdf05d2747894ccd70&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>83</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=f5fc69fc7d9bd6c0d7e8f6ba740e81e346d5b02e&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TNT</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>84</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=2fe58926ad36d4801c8693c067bb7da1e887f935&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>EuroSport 2 Ro</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>85</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=1fdd032d312b2698f459d83aaf0fe8d0896a449d&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Zu.pla</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>86</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>National TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>87</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=6d795b960b1a81dfbfa32d6bf944a9ab4e274684&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Diva</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>88</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b356659261e25380040db7f305a7cad4e5b7b556&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR HD 1 server 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>89</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=ee0061d19e4b04fb92a1fcee31db143a0e985913&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Pro gold</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>90</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=854572ce6fa376cbd9d19aaf465b4ca11fa961dd&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Film Box</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>91</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=54b1587d64dfc8eb3005d80f0f7be6303e3adb08&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>GigelSport 4</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>92</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=66d2efe6deee109586a02dd24462626c6e7c858f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>B1 TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>93</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Pimpletv.RU</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>94</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=f2616ba7a66d6d3fbb42a10c4c07667e59b93667&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Gigelsport 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>95</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>BollyWood Classic</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>96</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=8a876a4bbcf9efd3d42252e682fa22eec287bded&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Disney Jr.serv 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>97</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=0ae9a32149fb5bad0b1773595092b693fcc7da03&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TVR 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>98</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=3cdc87f255f6469beb20c6a6995f3e45dd6803d4&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Telekom 4</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>99</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=d8ad9b1d966de683c47c7daac8cd85d60c0fd1db&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>BBC Earth</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>100</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=7367807dafa7d27af7615a4d1067a40cfe449ced&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Nick Toons</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>101</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>BollyWood</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>102</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=caf1b0ad6f33833287287c25459c6cfab4b5f421&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TV Paparika</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>103</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Sport pct ro</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>104</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a46b50b19ccb8295c4249c8989429f8167d1860a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TV 1000</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>105</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5234833b4a354599135f7e6f7e5dbb4d30b8e34c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena 3 serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>106</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=1b1f62e9f42a66aa30e4177e81f55e17596431da&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Pro Cinema S1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>107</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cinemax 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>108</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a1e84032c2da876e2191b21101f423837b0c74b1&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Disney 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>109</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/manifest.m3u8?id=30a49eef2476820106c8292374838d03a72f2307&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>EuroSport 2 server 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>110</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=282a01fa33eb35aa867206a9634f5ab78c14e6f3&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>NatGeo,rge HD</title>
-			<creator>rge HD&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>111</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=be75f2a89469642f16398524d1783bfeb5da5b12&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 1 serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>112</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=458da054419e1463914f8ba4601cdcc02205cc45&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Telekom 1 S1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>113</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AXN Spin</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>114</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>KanalHD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>115</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=c35391205da821a6e1cbc9fedb25882e20e6b43f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Pro Cinema S2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>116</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=dd7d61a50bdde744c4d4aeeab80c5e6dd8bc0cc9&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Paramount HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>117</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=8584e54cad13b9310b7a1f59a482eb1ce0a413a7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Cinemax 1 serv 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>118</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=50a678b08f25599e1e05fcd53c151b4bf6ea49b1&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Viasat Nature</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>119</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=bd595614e418f216b012bd1868c9085e96a48211&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Diva</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>120</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=7a55521331d3268a10259a75ed50cff9b185a693&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AMC movies</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>121</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=71b10e3c447edd2d7bb0c69271143d7e6761b187&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>fil,m now&quot; group-title=&quot;informational&quot;,j,igi,fil,m now</title>
-			<creator>igi</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>122</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=671e1eda250d45bd8aee38e552633b0fea99035d&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>123</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=90121f9f631dc2b18e2eb8275069b3f39cc9b1bd&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TV1000</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>124</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=5196b34efe50cf2e9523d5a29bcd111a48fbdc0c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Gigelsport 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>125</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=36d21afa0a7e9fa1786826e63100c79e4976cbe2&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Acasa TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>126</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=afd7661f3d70521f05bf7f190445ac9e975539cd&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>ena 1&quot; group-title=&quot;informational&quot;,A,nt,ena 1</title>
-			<creator>nt</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>127</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=de2b65a8c41b8efa99f634436f17ef4cf22e41fa&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Canalul Knal</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>128</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=107b96e2b826f0a44955afc4c76c9d5a5307afa8&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Eurosport 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>129</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Planeta animalelor discvry</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>130</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cf7ebbe2ff02e3bc87ad6476f047776d1779ad4f&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>fil,m now&quot; group-title=&quot;informational&quot;,j,igi,fil,m now</title>
-			<creator>igi</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>131</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=a1f1cbaf8339d8ec1a6b01daf6c4e3832aac8c24&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>FilmCafeaua</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>132</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=80f529a5b58d05cad7d9792263afaf3a2132ae83&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Dis,ney 1</title>
-			<creator>ney 1&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>133</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=19d6d411fa195b913d1881060f3ee54e19aa143d&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Com.edy Ce,ntral</title>
-			<creator>ntral&quot; group-title=&quot;entertaining&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>134</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=ca6ad85e2d51bee59856d5f4d807e649ca3ae75a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Antena 3</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>135</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cc24b55315535d9d2481ea235772dbe9ecb1540a&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Gigelsport 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>136</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=96e66e5c426afd1a22196e5c9cc67c4641bf77d5&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>HBO 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>137</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=0fc0c169b6dbc059a06211cfd40178d4be85d8d5&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>ProStv HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>138</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=89122a1bb3fab471ce54ba405e28c2efa592fffe&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>EuroSport 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>139</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=6cb4a8cfc43e99efc0195a86437c4f96a25b8ea7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Viasat Explorer</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>140</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=75add004290fe646d14f5c45518ce48eaef6e814&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>His,tory Ch.blah</title>
-			<creator>tory Ch.blah&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>141</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b521f9e4b8a62cc9247d870dc441a0a21096f03c&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Dulce</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>142</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=cee85b36ac2ca51feda951c365db89c5b3ead4a7&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>TCM</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>143</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>LookPLus 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>144</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=239e180e279f49bba4a8c607bf3df6d89c95088b&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Viasat Nature</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>145</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=02fe9b7f73c7ee530a496251acd8080c15b5f268&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>AxNsimple</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>146</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=deb38e22f17ae705fd15fae6f214dc4dffd4cc03&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>priS,ma tevi</title>
-			<creator>ma tevi&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>147</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=9725ef621ea8af1aabd0401aa4b2cc2a92ca9a08&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>ProStcineva</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>148</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=25f18e540da62fd360b12ca4fff2a12aed69efcc&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Dis,ney Jr.</title>
-			<creator>ney Jr.&quot; group-title=&quot;informational&quot;</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>149</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=4c4116749607daf31bc19f20fdcf0135505ad3af&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>Dulce 4</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>150</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://127.0.0.1:6878/ace/getstream?id=70674c7464a8d83e5b1eee7a8bd46194d7e1e321&amp;hlc=1&amp;transcode_audio=0&amp;transcode_mp3=0&amp;transcode_ac3=0&amp;preferred_audio_language=eng</location>
-			<title>LooksSportiv 1</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>151</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-		<vlc:item tid="0"/>
-		<vlc:item tid="1"/>
-		<vlc:item tid="2"/>
-		<vlc:item tid="3"/>
-		<vlc:item tid="4"/>
-		<vlc:item tid="5"/>
-		<vlc:item tid="6"/>
-		<vlc:item tid="7"/>
-		<vlc:item tid="8"/>
-		<vlc:item tid="9"/>
-		<vlc:item tid="10"/>
-		<vlc:item tid="11"/>
-		<vlc:item tid="12"/>
-		<vlc:item tid="13"/>
-		<vlc:item tid="14"/>
-		<vlc:item tid="15"/>
-		<vlc:item tid="16"/>
-		<vlc:item tid="17"/>
-		<vlc:item tid="18"/>
-		<vlc:item tid="19"/>
-		<vlc:item tid="20"/>
-		<vlc:item tid="21"/>
-		<vlc:item tid="22"/>
-		<vlc:item tid="23"/>
-		<vlc:item tid="24"/>
-		<vlc:item tid="25"/>
-		<vlc:item tid="26"/>
-		<vlc:item tid="27"/>
-		<vlc:item tid="28"/>
-		<vlc:item tid="29"/>
-		<vlc:item tid="30"/>
-		<vlc:item tid="31"/>
-		<vlc:item tid="32"/>
-		<vlc:item tid="33"/>
-		<vlc:item tid="34"/>
-		<vlc:item tid="35"/>
-		<vlc:item tid="36"/>
-		<vlc:item tid="37"/>
-		<vlc:item tid="38"/>
-		<vlc:item tid="39"/>
-		<vlc:item tid="40"/>
-		<vlc:item tid="41"/>
-		<vlc:item tid="42"/>
-		<vlc:item tid="43"/>
-		<vlc:item tid="44"/>
-		<vlc:item tid="45"/>
-		<vlc:item tid="46"/>
-		<vlc:item tid="47"/>
-		<vlc:item tid="48"/>
-		<vlc:item tid="49"/>
-		<vlc:item tid="50"/>
-		<vlc:item tid="51"/>
-		<vlc:item tid="52"/>
-		<vlc:item tid="53"/>
-		<vlc:item tid="54"/>
-		<vlc:item tid="55"/>
-		<vlc:item tid="56"/>
-		<vlc:item tid="57"/>
-		<vlc:item tid="58"/>
-		<vlc:item tid="59"/>
-		<vlc:item tid="60"/>
-		<vlc:item tid="61"/>
-		<vlc:item tid="62"/>
-		<vlc:item tid="63"/>
-		<vlc:item tid="64"/>
-		<vlc:item tid="65"/>
-		<vlc:item tid="66"/>
-		<vlc:item tid="67"/>
-		<vlc:item tid="68"/>
-		<vlc:item tid="69"/>
-		<vlc:item tid="70"/>
-		<vlc:item tid="71"/>
-		<vlc:item tid="72"/>
-		<vlc:item tid="73"/>
-		<vlc:item tid="74"/>
-		<vlc:item tid="75"/>
-		<vlc:item tid="76"/>
-		<vlc:item tid="77"/>
-		<vlc:item tid="78"/>
-		<vlc:item tid="79"/>
-		<vlc:item tid="80"/>
-		<vlc:item tid="81"/>
-		<vlc:item tid="82"/>
-		<vlc:item tid="83"/>
-		<vlc:item tid="84"/>
-		<vlc:item tid="85"/>
-		<vlc:item tid="86"/>
-		<vlc:item tid="87"/>
-		<vlc:item tid="88"/>
-		<vlc:item tid="89"/>
-		<vlc:item tid="90"/>
-		<vlc:item tid="91"/>
-		<vlc:item tid="92"/>
-		<vlc:item tid="93"/>
-		<vlc:item tid="94"/>
-		<vlc:item tid="95"/>
-		<vlc:item tid="96"/>
-		<vlc:item tid="97"/>
-		<vlc:item tid="98"/>
-		<vlc:item tid="99"/>
-		<vlc:item tid="100"/>
-		<vlc:item tid="101"/>
-		<vlc:item tid="102"/>
-		<vlc:item tid="103"/>
-		<vlc:item tid="104"/>
-		<vlc:item tid="105"/>
-		<vlc:item tid="106"/>
-		<vlc:item tid="107"/>
-		<vlc:item tid="108"/>
-		<vlc:item tid="109"/>
-		<vlc:item tid="110"/>
-		<vlc:item tid="111"/>
-		<vlc:item tid="112"/>
-		<vlc:item tid="113"/>
-		<vlc:item tid="114"/>
-		<vlc:item tid="115"/>
-		<vlc:item tid="116"/>
-		<vlc:item tid="117"/>
-		<vlc:item tid="118"/>
-		<vlc:item tid="119"/>
-		<vlc:item tid="120"/>
-		<vlc:item tid="121"/>
-		<vlc:item tid="122"/>
-		<vlc:item tid="123"/>
-		<vlc:item tid="124"/>
-		<vlc:item tid="125"/>
-		<vlc:item tid="126"/>
-		<vlc:item tid="127"/>
-		<vlc:item tid="128"/>
-		<vlc:item tid="129"/>
-		<vlc:item tid="130"/>
-		<vlc:item tid="131"/>
-		<vlc:item tid="132"/>
-		<vlc:item tid="133"/>
-		<vlc:item tid="134"/>
-		<vlc:item tid="135"/>
-		<vlc:item tid="136"/>
-		<vlc:item tid="137"/>
-		<vlc:item tid="138"/>
-		<vlc:item tid="139"/>
-		<vlc:item tid="140"/>
-		<vlc:item tid="141"/>
-		<vlc:item tid="142"/>
-		<vlc:item tid="143"/>
-		<vlc:item tid="144"/>
-		<vlc:item tid="145"/>
-		<vlc:item tid="146"/>
-		<vlc:item tid="147"/>
-		<vlc:item tid="148"/>
-		<vlc:item tid="149"/>
-		<vlc:item tid="150"/>
-		<vlc:item tid="151"/>
-	</extension>
-</playlist>
+#EXTM3U
+#EXTINF:0,Discovery Science
+acestream://5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d/ 
+#EXTINF:0,Discovery
+acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/
+#EXTINF:0,Discovery S2
+acestream://26ec0faf2671fe5b308277582a4b132f68cdda25/ 
+#EXTINF:0,Discovery ID
+acestream://abc847821d3f7c1a8ae19668aec5e01967e23e28/
+#EXTINF:0,Viasat History
+acestream://428306b01ec262d0ba1de65c526b020abd3e612e/
+#EXTINF:0,Viasat History S2
+acestream://428306b01ec262d0ba1de65c526b020abd3e612e/  
+#EXTINF:0,Viasat Explorer
+acestream://65e4201bd28fcaa1f0b52a293104381e51830ef9/  
+#EXTINF:0,Viasat Nature
+acestream://42170b7593edadc1a9e240ac3e6484171b81dc80/
+#EXTINF:0,Fishing and hunting
+acestream://40a9cc41ef45694f3355f9fe4d8d739cb43cd2e9/
+#EXTINF:0,CBS Reality
+acestream://fa9af1e351abbe7b31e2ca4ff63cea15199f54b0/
+#EXTINF:0,Fine living 
+acestream://c2602cd1254592c8b4f7d23c389b6bccdbca27a5/
+#EXTINF:0,Animal planet
+acestream://80a39416b67fa8461a2c70e916909aaffb8cd15f/
+#EXTINF:0,E Entertainment
+acestream://01dced5b4868f54e4a519d3ecf101fa800dc0ccb/
+#EXTINF:0,Gigelsport 1
+acestream://038296b10c20ea36cf007e37c3988fb7a2d7527a/
+#EXTINF:0,Gigelsport 1 S2
+acestream://386c11170c8376d991615afe6c231e319d0a7d71/ 
+#EXTINF:0,Crime investigation
+acestream://aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c/
+#EXTINF:0,Gigelsport 2
+acestream://9c2a43d0b19849d3e697574ed996dde308e9d159/
+#EXTINF:0,Gigelsport 3 
+acestream://8ade07a85cb370ed7b455859ef0e184924edb2e8/
+#EXTINF:0,GigelSport 4
+acestream://54b1587d64dfc8eb3005d80f0f7be6303e3adb08/ 
+#EXTINF:0, Champions tv Esp
+acestream://e796ac147924d41e5b63421d3f411261e7ff9fe8/ 
+#EXTINF:0,Sport pct ro
+acestream://5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a/  
+#EXTINF:0,ProX 
+acestream://5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a/  
+#EXTINF:0,LooksSportiv 1
+acestream://4cb55f8171d3dbe374cc42b694c16234185c33d2/
+#EXTINF:0,Look Sport serv 2
+acestream://4cb55f8171d3dbe374cc42b694c16234185c33d2/ 
+#EXTINF:0,LookPLus 1
+acestream://21fb811dfef6755e9fc1488bff7463fe0f5f14e4/  
+#EXTINF:0,Telekom 1 S1
+acestream://559883c89784b4cfca4aa6f353f59059690da7f9/
+#EXTINF:0,Telekom 1 S2
+acestream://47ce0e275adcba65285b48f16b65bfbd809b5c1a/
+#EXTINF:0,Telekom 2 2
+acestream://76cd4aa0bc2590802ca728a81c855799cf94cd89/  
+#EXTINF:0,Telekom 3
+acestream://af2eeb174d055851edeae06945bca012a43e8c16/ 
+#EXTINF:0,Telekom 4 
+acestream://3cdc87f255f6469beb20c6a6995f3e45dd6803d4/
+#EXTINF:0,Eurosport 1 Ro
+acestream://d177df77027b75186b63f2c3b618855dc0402064/
+#EXTINF:0,Eurosport 1 Ru
+acestream://5e9f075c9f6703b4dd355f649c424d715570e51b/
+#EXTINF:0,Eurosport 1 server 2
+acestream://5e9f075c9f6703b4dd355f649c424d715570e51b/  
+#EXTINF:0,EuroSport 2 Ro
+acestream://2fe58926ad36d4801c8693c067bb7da1e887f935/ 
+#EXTINF:0,EuroSport 2 server 2
+acestream://30a49eef2476820106c8292374838d03a72f2307/
+#EXTINF:0,EuroSport serv 2 Ru
+acestream://30a49eef2476820106c8292374838d03a72f2307/ 
+#EXTINF:0,EuroSport 2 Ru
+acestream://30a49eef2476820106c8292374838d03a72f2307/ 
+#EXTINF:0,Protv HD
+acestream://44bf857871d599381cc1d0e7bc4a625d28f64633/
+#EXTINF:0,Protv HD S2
+acestream://73fe195df7f6aec6f97899f19179838f02451d40/
+#EXTINF:0,Pro2 
+acestream://3452ea4a5dea0b2a887d8ab34c816edadd8cdc40/
+#EXTINF:0,Pro2 S2
+acestream://43a4eb9e14f4a8460aec26e64df897269f8e737f/
+#EXTINF:0,ProX serv 2
+acestream://5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a/
+#EXTINF:0,ProX serv 3
+acestream://a6a0afe5999a3a8117fddf369d004d47c1198a70/
+#EXTINF:0,Pro gold
+acestream://ee0061d19e4b04fb92a1fcee31db143a0e985913/
+#EXTINF:0,Pro Cinema S1
+acestream://1b1f62e9f42a66aa30e4177e81f55e17596431da/
+#EXTINF:0,Pro Cinema S2
+acestream://c098b52389d137482e6fcdfd18a78f726f1952e3/
+#EXTINF:0,ProTV Chisinau
+acestream://64fb82779f49c711bd94ad2533f007a47bf0b22c/  
+#EXTINF:0,Antena lu1
+acestream://04f6f08e0fefcee081fdc9a4c98cef797659b9bf/
+#EXTINF:0,Antena 1 serv 2
+acestream://80c835103d593f97421b3da6ea5e7a682a2511ad/
+#EXTINF:0,TVR 1
+acestream://0ae9a32149fb5bad0b1773595092b693fcc7da03/  
+#EXTINF:0,TVR 2
+acestream://6162b6c4f47b7c9ae13563382a4ec1efd1916e45/  
+#EXTINF:0,TVR 3
+acestream://fa94e8d679229ff8c4afb58100746e025e386beb/
+#EXTINF:0,TVR Int
+acestream://b218aaacad702fa2df851f07403735a421b37e8b/ 
+#EXTINF:0,TVR Int S2
+acestream://e504ba0d4a5e2d70ceb8b3f1323d82c29d2c5d0f/
+#EXTINF:0,TVR HD, Srv 2
+acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/  
+#EXTINF:0,TVR HD 1
+acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/
+#EXTINF:0,TVR HD 1 server 2
+acestream://b356659261e25380040db7f305a7cad4e5b7b556/  
+#EXTINF:0,TVR HD s3
+acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/  
+#EXTINF:0,Prima TV 
+acestream://ec9af70a0d1b9765824a4d3c20a5d9fffba7540b/
+#EXTINF:0,Prima,TV S2
+acestream://16d03b8959b5cfb2ea17764ab81c807765cc7bf8/  
+#EXTINF:0,AMC movies
+acestream://cc6e127ef4f3bfe3479f936b87558444b62550c6/
+#EXTINF:0,BBC Earth
+acestream://d8ad9b1d966de683c47c7daac8cd85d60c0fd1db/  
+#EXTINF:0,Discovery Travel
+acestream://5d5a62f7df276bf58ee646f1de40f5f014620d1e/  
+#EXTINF:0,Discovery Channel
+acestream://20e3bc8d2be583b13c133a8a1b8d7896f8b72d67/  
+#EXTINF:0,Discovery Crime inve
+acestream://a46bdc1273d5a3004fca1a11e7b39b76c81d64c5/  
+#EXTINF:0,History S1
+acestream://2c707fd98f32a536521d471d2205973daf604772/    
+#EXTINF:0,NAT Geo HD
+acestream://3673db9f5177360b71f85c9e9655852131311134/
+#EXTINF:0,NAT Geo serv 2
+acestream://f83d60f3424235907660581d5b46c9241210931a/
+#EXTINF:0,HBO 1
+acestream://be75f2a89469642f16398524d1783bfeb5da5b12/
+#EXTINF:0,HBO 2
+acestream://aeabfc7e6b83fae685e3f1fdf05d2747894ccd70/
+#EXTINF:0,HBO 2 serv 2
+acestream://72d7dc4b5eb02a7563347244abe32dc57d127a43/  
+#EXTINF:0,HBO 3   
+acestream://d59a1fa955bcc8d1c6018ae1a5fec5c375cf6b15/ 
+#EXTINF:0,Cinemax 1
+acestream://34b1402557fb7faab2979361c4e9650fa0948724/ 
+#EXTINF:0,Cinemax 1 serv 2
+acestream://8584e54cad13b9310b7a1f59a482eb1ce0a413a7/ 
+#EXTINF:0,Cinemax 2
+acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3/ 
+#EXTINF:0,Cinemax 2 server 2
+acestream://fcd13abdecf8c5d2eb897eb908961c4e0d9fbcf4/ 
+#EXTINF:0,Cinemax 2 server 3
+acestream://c3ede4f21525482a4117f0d6b877700d343c7c7c/ 
+#EXTINF:0,Gijifilm now 
+acestream://84c9d361d6439b6409c2cad427230770f4479868/  
+#EXTINF:0,Paramount HD
+acestream://dd7d61a50bdde744c4d4aeeab80c5e6dd8bc0cc9/
+#EXTINF:0,Paramount HD serv 2
+acestream://a17551d216736d6f44d5af5101c06f1e0ca868d2/
+#EXTINF:0,TNT
+acestream://f5fc69fc7d9bd6c0d7e8f6ba740e81e346d5b02e/
+#EXTINF:0,Film Box
+acestream://854572ce6fa376cbd9d19aaf465b4ca11fa961dd/
+#EXTINF:0,FilM Box HD
+acestream://854572ce6fa376cbd9d19aaf465b4ca11fa961dd/ 
+#EXTINF:0,Filmbox family
+acestream://a583c515691ebf8fd145a5492f00e9be7b78191c/
+#EXTINF:0,Film Cafe
+acestream://65df2563fde52bb3fc7d340941f80528f76bbc3b/
+#EXTINF:0,Film Cafe  serv 2
+acestream://71fcd3086d7f8b426c1f3ca568e84dfeb38e2de1/
+#EXTINF:0,KanalHD
+acestream://a9851aea4a78a85b72b33bbd2635b179d7425043/
+#EXTINF:0,Kanal D S2 
+acestream://3db8fd1388255b0911b01c8bc87a9e0cc4ea8fd0/ 
+#EXTINF:0,TV 1000 
+acestream://a46b50b19ccb8295c4249c8989429f8167d1860a/ 
+#EXTINF:0,TV 1000 S2
+acestream://a46b50b19ccb8295c4249c8989429f8167d1860a/
+#EXTINF:0,Kiss TV
+acestream://2e75721c71458630cf77df3e779b708d0169ec51/ 
+#EXTINF:0,BollyWood
+acestream://21ba23d7ec08860d8ef3177359e2c17377983d13/  
+#EXTINF:0,BollyWood Classic
+acestream://73eecb8056e6cff8d15d689cb6da38cf9024bda7/  
+#EXTINF:0,AxNsimple
+acestream://960a2f2ac8d68ad42b4c889c8474e1c2181d8f96/  
+#EXTINF:0,AXN White
+acestream://4aee337d80adca1e5a344fcf71c26d0f19756695/  
+#EXTINF:0,AXN Black
+acestream://90cccff239e20e38591b8c585739d98c9bf00bb6/  
+#EXTINF:0,AXN Spin
+acestream://f29db6f3f2ea2649d26e85ecceeb91ee538b6e28/  
+#EXTINF:0,Happy Chnl
+acestream://26c6ff732cf764ab43f0f40421d6b8d80dd90ea9/  
+#EXTINF:0,Comedy Central
+acestream://dd4d2afd78edbc76fd87ea1a240371c8d8b80539/  
+#EXTINF:0,Cartoon 
+acestream://75e360a816a248f0911f1f84abf72a34b82a8738/
+#EXTINF:0,Cartoon S2
+acestream://4d9ce52fca8ce6e42a7a247baedf2e7c9b9a016f/  
+#EXTINF:0,Disney 1
+acestream://a1e84032c2da876e2191b21101f423837b0c74b1/  
+#EXTINF:0,Disney Jr.
+acestream://2f3e3b42c24f779f20c89b3b125548a73350e538/  
+#EXTINF:0,Boomerang
+acestream://b0a7335f9e31f02282983949ba3f238bba1da32f/
+#EXTINF:0,Disney Jr.serv 2
+acestream://2f3e3b42c24f779f20c89b3b125548a73350e538/
+#EXTINF:0,Disney Jr.serv 3
+acestream://8a876a4bbcf9efd3d42252e682fa22eec287bded/  
+#EXTINF:0,Minimax
+acestream://00137cf2cc16d1a7588c87567439d625f3478475/  
+#EXTINF:0,Duck TV
+acestream://00137cf2cc16d1a7588c87567439d625f3478475/  
+#EXTINF:0,Nickelodeon
+acestream://db12109b0b1b048141a967e75a9acb2031477896/
+#EXTINF:0,Nickelodeon server 1
+acestream://90812c96e5160bb0d2271d50e93e675a3632aef0/  
+#EXTINF:0,Nick Jr
+acestream://a31dc9f81c76e73f0fdb5e4e5700a40b67e500f7/
+#EXTINF:0,Nick Toons
+acestream://7367807dafa7d27af7615a4d1067a40cfe449ced/  
+#EXTINF:0,NatGeo,rge HD
+acestream://282a01fa33eb35aa867206a9634f5ab78c14e6f3/
+#EXTINF:0,NatGeo,rge 
+acestream://f83d60f3424235907660581d5b46c9241210931a/  
+#EXTINF:0,NatG3o salbatic
+acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/
+#EXTINF:0,NatG3o salbatic server 2
+acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/  
+#EXTINF:0,Planeta animalelor serv 2 
+acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07/ 
+#EXTINF:0,Zu.pla
+acestream://1fdd032d312b2698f459d83aaf0fe8d0896a449d/  
+#EXTINF:0,VH 1 Europe
+acestream://8cb69525386533f81c042f9e02d254f01b71d00c/ 
+#EXTINF:0,Pro Gold
+acestream://7a4473e3d09af7a9c764b50700db785da21f2ebc/
+#EXTINF:0,Paramount Channel
+acestream://2014ffb126f9034e680f331cf4d1ea9a37366a23/
+#EXTINF:0,Paramount Channel Server 2
+acestream://a17551d216736d6f44d5af5101c06f1e0ca868d2/
+#EXTINF:0,Pimpletv.RU 
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893/
+#EXTINF:0,Pimpletv.RU S2
+acestream://98c11147917968aa911a1838bd10508194e291b2/
+#EXTINF:0,RTV 
+acestream://0c72ce84352f6a5c5c6210c3b6ed157cf726b121/
+#EXTINF:0,Antena 3
+acestream://a6ca4e83dc4d6c14be62f5768ca1c66ec67dacf3/
+#EXTINF:0,Antena 3 serv 2
+acestream://5234833b4a354599135f7e6f7e5dbb4d30b8e34c/
+#EXTINF:0,Antena Stars
+acestream://82dde5e64f82fe508e75a1f18317b8c7f5b36ca3/
+#EXTINF:0,Diva
+acestream://6d795b960b1a81dfbfa32d6bf944a9ab4e274684/
+#EXTINF:0,B1 TV
+acestream://34f4039f44a9fb282dd4689b99e6921dcd98dca6/
+#EXTINF:0,B1 TV S2
+acestream://34f4039f44a9fb282dd4689b99e6921dcd98dca6/
+#EXTINF:0,Match Futbol 1 Ru
+acestream://42f9ab94f7d7142a46a3e9315a61c0d7f4ad0610/
+#EXTINF:0,Match Arena Ru
+acestream://38fd1372406c976bb926eb5f14d2e6a8f9e3a6da/
+#EXTINF:0,Match Futbol 3 Ru
+acestream://f568791fd70744443b9bf0343ac99015daab3d24/
+#EXTINF:0,Match Premier Ru
+acestream://73d8f7f6bc68b12878d73180fd06f0e3d211acfd/
+#EXTINF:0,Cinemaraton
+acestream://33607c250754a9e179795d77b424f907a6632e4c/
+#EXTINF:0,Epic Drama
+acestream://8b40099da63d9bae22c8447dded2cb58ff56e81f/
+#EXTINF:0,Pro Gold
+acestream://ee0061d19e4b04fb92a1fcee31db143a0e985913/
+#EXTINF:0,Pro Intl
+acestream://da3dde828d8930af7e0953c2d9faaa71e2ecfb94/
+#EXTINF:0,Mooz Tv
+acestream://e89389fb0cca61b18bf1d1cdcecf98fb36058b1e/
+#EXTINF:0,Trinitas TV
+acestream://8fa1433959b7396989b9d6c14cbeec39faa07161/
+#EXTINF:0,Realitatea TV Plus
+acestream://f189266fd56439343c293cf92ed5ba01159dad6b/
+#EXTINF:0,UTV
+acestream://45fa51cdde2bd37f55206a9a3814afc421e76fe8/
+#EXTINF:0,National TV
+acestream://88fb3268097b76539ffb4f283b155a1ee5c993c6/
+#EXTINF:0,National TV serv 2
+acestream://88fb3268097b76539ffb4f283b155a1ee5c993c6/
+#EXTINF:0,Minimax
+acestream://00137cf2cc16d1a7588c87567439d625f3478475/
+#EXTINF:0,Somax TV
+acestream://f763f99c6fae672f13e769a52fc1f56134d845a5/
+#EXTINF:0,TV Paparika
+acestream://caf1b0ad6f33833287287c25459c6cfab4b5f421/
+#EXTINF:0,TLC Discovery
+acestream://cc7773de5ac36307c042c44abe143a07e96f24a0/
+#EXTINF:0,Travel Discovery
+acestream://5ea4a96972349528fceb1c3306e4971b44e0a837/
+#EXTINF:0,Procinema
+acestream://1b1f62e9f42a66aa30e4177e81f55e17596431da/
+#EXTINF:0, TNT
+acestream://f5fc69fc7d9bd6c0d7e8f6ba740e81e346d5b02e/
+#EXTINF:0,Crime & Investigation 
+acestream://aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c/
+#EXTINF:0, Diva
+acestream://bd595614e418f216b012bd1868c9085e96a48211/
+#EXTINF:0, Taraf TV
+acestream://11f263ffbab0d110a639eb1fd141370dbf7515d7/
+#EXTINF:0,Comedy Est
+acestream://2f7cb5079d8f96663ed8ff9f0c2331d9455450ef/
+#EXTINF:0, Anews 24
+acestream://2763b875286e048605692dcf2916f0687fd9311d/
+#EXTINF:0, m2o TV
+acestream://b468bb8d3d5d3dc53a75d78a4e5c619cd0a0813d/
+#EXTINF:0, eMpTyV
+acestream://31ff14d05a94a760615b607987bc43eade2867eb/
+#EXTINF:0, eMpTyV Hits
+acestream://ed2565a08a6b73b98eb9d19aa571ad465f77122e/
+#EXTINF:0, eMpTyV Dance
+acestream://4e60d6dd3d902a875d5170d2fc11deda289d018c/
+#EXTINF:0,  Favorit TV
+acestream://11f263ffbab0d110a639eb1fd141370dbf7515d7/
+#EXTINF:0, Hora Tv
+acestream://3d38918eaec427038f179fa749298dd0b241fb9d/
+#EXTINF:0, Alfa Omega tv
+acestream://2e480be39cf4039b6b5e4bff82505a9173a705d6/
+#EXTINF:0, Baby TV
+acestream://654c2721e4c749a3a7c69313b56a5c15aa105901/
