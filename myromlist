@@ -3,15 +3,11 @@
 acestream://b7347909bb040fd6a0a59fb77dd6d5b283b57288/
 #EXTINF:0,Discovery
 acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/
-#EXTINF:0,Discovery S2
-acestream://26ec0faf2671fe5b308277582a4b132f68cdda25/ 
 #EXTINF:0,Discovery ID
 acestream://abc847821d3f7c1a8ae19668aec5e01967e23e28/
 #EXTINF:0,Viasat History
-acestream://428306b01ec262d0ba1de65c526b020abd3e612e/
-#EXTINF:0,Viasat History S2
-acestream://428306b01ec262d0ba1de65c526b020abd3e612e/  
-#EXTINF:0,Viasat Explore
+acestream://428306b01ec262d0ba1de65c526b020abd3e612e/ 
+#EXTINF:0,Viasat Explorer
 acestream://65e4201bd28fcaa1f0b52a293104381e51830ef9/  
 #EXTINF:0,Viasat Nature
 acestream://42170b7593edadc1a9e240ac3e6484171b81dc80/
@@ -38,11 +34,11 @@ acestream://54b1587d64dfc8eb3005d80f0f7be6303e3adb08/
 #EXTINF:0, Champions tv Esp
 acestream://e796ac147924d41e5b63421d3f411261e7ff9fe8/   
 #EXTINF:0,ProX 
-acestream://fe9f7e758053bc376e44634d3ace1799eb329fff/  
+acestream://98e0da6a473faec82ddf9c53f7e15f79707f16e3/  
 #EXTINF:0,LooksSportiv 1
-acestream://4cb55f8171d3dbe374cc42b694c16234185c33d2/
-#EXTINF:0,LookPLus 1
-acestream://21fb811dfef6755e9fc1488bff7463fe0f5f14e4/  
+acestream://a248f6f755f504e08c20244b2d3c3c62aaf1ae33/
+#EXTINF:0,LookPLus 
+acestream://e4095ae08c67cafff0ce7478330686be5c43b69a/  
 #EXTINF:0,Telekom 1 S1
 acestream://559883c89784b4cfca4aa6f353f59059690da7f9/
 #EXTINF:0,Telekom 1 S2
@@ -54,81 +50,63 @@ acestream://af2eeb174d055851edeae06945bca012a43e8c16/
 #EXTINF:0,Telekom 4 
 acestream://3cdc87f255f6469beb20c6a6995f3e45dd6803d4/
 #EXTINF:0,Eurosport 1 Ro
-acestream://8abcbcfce79fb00141772d395c8235335f2a204e/
+acestream://fc966ea6c8e7b402a5fb4917cf6bbde3332884cc/
 #EXTINF:0,Eurosport 1 Ru
-acestream://5e9f075c9f6703b4dd355f649c424d715570e51b/
-#EXTINF:0,Eurosport 1 server 2
 acestream://5e9f075c9f6703b4dd355f649c424d715570e51b/  
 #EXTINF:0,EuroSport 2 Ro
-acestream://065e8c81daa92065dc9373860974f44fc2c262a8/ 
+acestream://e61f612f1e47a31434953e037198e291cda217c7/ 
 #EXTINF:0,EuroSport 2 server 2
 acestream://30a49eef2476820106c8292374838d03a72f2307/
 #EXTINF:0,Realitatea plus
-acestream://3273aca93d73675248cf8f82e2807e7576338c0a/
+acestream://093e4dcc4c533331035c6ebb0d904671f747bdf5/
 #EXTINF:0,EuroSport serv 2 Ru
 acestream://30a49eef2476820106c8292374838d03a72f2307/ 
 #EXTINF:0,EuroSport 2 Ru
 acestream://30a49eef2476820106c8292374838d03a72f2307/ 
+#EXTINF:0,Protv
+acestream://0fa08777c47a2d56294c161e13e0b4ba8c4bef66/
 #EXTINF:0,Protv HD
-acestream://44bf857871d599381cc1d0e7bc4a625d28f64633/
-#EXTINF:0,Protv HD S2
-acestream://73fe195df7f6aec6f97899f19179838f02451d40/
+acestream://ac5bd0162d23eac4d8fc773cf74d510913cc28aa/
 #EXTINF:0,Pro2 
-acestream://3452ea4a5dea0b2a887d8ab34c816edadd8cdc40/
+acestream://90a087c86fe8215b3ebeca73701762c04cbd95b2/
 #EXTINF:0,Pro2 S2
-acestream://43a4eb9e14f4a8460aec26e64df897269f8e737f/
-#EXTINF:0,ProX serv 2
-acestream://5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a/
-#EXTINF:0,ProX serv 3
-acestream://a6a0afe5999a3a8117fddf369d004d47c1198a70/
+acestream://96c8eb886eab02adcd6f288bdcfb09e317abe03b/
 #EXTINF:0,Pro gold
-acestream://ee0061d19e4b04fb92a1fcee31db143a0e985913/
+acestream://e59d255b4139d421300271eb9d3b0783ac3d1e4b/
 #EXTINF:0,Pro Cinema S1
-acestream://1b1f62e9f42a66aa30e4177e81f55e17596431da/
-#EXTINF:0,Pro Cinema S2
-acestream://c098b52389d137482e6fcdfd18a78f726f1952e3/
+acestream://a8d80286f62f5863bc24e56a8a95203cc32e532e/
 #EXTINF:0,ProTV Chisinau
 acestream://64fb82779f49c711bd94ad2533f007a47bf0b22c/  
 #EXTINF:0,Antena lu1
-acestream://04f6f08e0fefcee081fdc9a4c98cef797659b9bf/
+acestream://41061db1a64467a684b3ce30bede7b1b59d022a3/
 #EXTINF:0,Antena 1 serv 2
-acestream://cd35d101d65c49db941444e29e586b3cd0eeabfc/
+acestream://b347d8b31725509aaea9eadce4621c8b0a2c0996/
 #EXTINF:0,TVR 1
-acestream://0ae9a32149fb5bad0b1773595092b693fcc7da03/  
+acestream://ae9efb00058f604d1543076152c971aba53fc142/  
 #EXTINF:0,TVR 2
-acestream://6162b6c4f47b7c9ae13563382a4ec1efd1916e45/  
+acestream://0151921ff4f90629be026fd4f3a2d6b82dcd60ce/ 
 #EXTINF:0,TVR 3
 acestream://fa94e8d679229ff8c4afb58100746e025e386beb/
 #EXTINF:0,TVR Int
 acestream://b218aaacad702fa2df851f07403735a421b37e8b/ 
-#EXTINF:0,TVR Int S2
-acestream://e504ba0d4a5e2d70ceb8b3f1323d82c29d2c5d0f/
-#EXTINF:0,TVR HD, Srv 2
-acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/  
-#EXTINF:0,TVR HD 1
-acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/
-#EXTINF:0,TVR HD 1 server 2
-acestream://b356659261e25380040db7f305a7cad4e5b7b556/ 
+#EXTINF:0,TV Paprika, 
+acestream://ea5cff9add6776fb1b1ba3cef6be87a4aa7adcff/ 
 #EXTINF:0,TVR Moldova
-acestream://730e10dbf8c42b3f6b54fa4e9e8fded69425239d 
+acestream://730e10dbf8c42b3f6b54fa4e9e8fded69425239d/ 
 #EXTINF:0,TVR HD s3
 acestream://eef0bbebefa52e8ab88bf7ba7e33df8a9099f75b/  
 #EXTINF:0,Prima TV 
-acestream://ec9af70a0d1b9765824a4d3c20a5d9fffba7540b/
-#EXTINF:0,Prima,TV S2
-acestream://16d03b8959b5cfb2ea17764ab81c807765cc7bf8/  
+acestream://5183457931c05909345be724f28c4da824ad053b/ 
 #EXTINF:0,AMC movies
-acestream://cc6e127ef4f3bfe3479f936b87558444b62550c6/
+acestream://d70a2d1dca843c315bd075cfccdc78d02f9a97a8/
 #EXTINF:0,BBC Earth
-acestream://d8ad9b1d966de683c47c7daac8cd85d60c0fd1db/  
-#EXTINF:0,Discovery Travel
-acestream://5d5a62f7df276bf58ee646f1de40f5f014620d1e/  
+acestream://d8ad9b1d966de683c47c7daac8cd85d60c0fd1db/    
 #EXTINF:0,Discovery Channel
-acestream://20e3bc8d2be583b13c133a8a1b8d7896f8b72d67/  
+acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/  
 #EXTINF:0,Discovery Crime inve
 acestream://b6e13f77adea8d80eb0911c44df97285402d28d4/  
 #EXTINF:0,History S1
-acestream://2c707fd98f32a536521d471d2205973daf604772/    
+acestream://7eab20ed5bd4759fc5c60f8f3d387b8635772a95/    
 #EXTINF:0,NAT Geo Wild
 acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/
 #EXTINF:0,NAT Geo serv 2
