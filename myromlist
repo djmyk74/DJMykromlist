@@ -82,7 +82,7 @@ acestream://41061db1a64467a684b3ce30bede7b1b59d022a3/
 #EXTINF:0,Antena 1 serv 2
 acestream://b347d8b31725509aaea9eadce4621c8b0a2c0996/
 #EXTINF:0,TVR 1
-acestream://ae9efb00058f604d1543076152c971aba53fc142/  
+acestream://21b83d2c3b22fbd79c402503ee273d64ffc34f3a/  
 #EXTINF:0,TVR 2
 acestream://0151921ff4f90629be026fd4f3a2d6b82dcd60ce/ 
 #EXTINF:0,TVR 3
@@ -102,63 +102,57 @@ acestream://d70a2d1dca843c315bd075cfccdc78d02f9a97a8/
 #EXTINF:0,BBC Earth
 acestream://d8ad9b1d966de683c47c7daac8cd85d60c0fd1db/    
 #EXTINF:0,Discovery Channel
-acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/  
+acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7  
 #EXTINF:0,Discovery Crime inve
 acestream://b6e13f77adea8d80eb0911c44df97285402d28d4/  
 #EXTINF:0,History S1
 acestream://7eab20ed5bd4759fc5c60f8f3d387b8635772a95/    
 #EXTINF:0,NAT Geo Wild
 acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/
-#EXTINF:0,NAT Geo serv 2
-acestream://2a26808706c5119aaff7f1b5614f1ba5c3daba1a/
 #EXTINF:0,HBO 1
-acestream://be75f2a89469642f16398524d1783bfeb5da5b12/
+acestream://aa9c7a4fd537292b093eb3f6c0e74f83df1fdb3e/
+#EXTINF:0,HBO 1 serv 2
+acestream://113ac47b5e0d21dcbfc16c5c4a5a8724f054ba4d/
 #EXTINF:0,HBO 2
-acestream://aeabfc7e6b83fae685e3f1fdf05d2747894ccd70/
+acestream://db6d70c3170339dfe25a4ed1a841348d37dd0548/
 #EXTINF:0,HBO 2 serv 2
-acestream://72d7dc4b5eb02a7563347244abe32dc57d127a43/  
+acestream://518d3a1e308f2e53dde4e4ed9fec035f3da4a42a/  
 #EXTINF:0,HBO 3   
-acestream://d59a1fa955bcc8d1c6018ae1a5fec5c375cf6b15/ 
+acestream://8245b0f602d74bc9e3b014d6aecdc1f7591094ba/
 #EXTINF:0,Cinemax 1
-acestream://34b1402557fb7faab2979361c4e9650fa0948724/ 
+acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257/
 #EXTINF:0,Cinemax 1 serv 2
 acestream://8584e54cad13b9310b7a1f59a482eb1ce0a413a7/ 
 #EXTINF:0,Cinemax 2
 acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3/ 
 #EXTINF:0,Cinemax 2 server 2
-acestream://fcd13abdecf8c5d2eb897eb908961c4e0d9fbcf4/ 
-#EXTINF:0,Cinemax 2 server 3
-acestream://c3ede4f21525482a4117f0d6b877700d343c7c7c/ 
+acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257/
 #EXTINF:0,Gijifilm now 
-acestream://1f22b3b99c169b73f52762be798037160d8d139c/ 
+acestream://88a36db0ac36a0153fc24befbcfd74011ce7aac1/ 
 #EXTINF:0,Paramount HD
-acestream://dd7d61a50bdde744c4d4aeeab80c5e6dd8bc0cc9/
-#EXTINF:0,Paramount HD serv 2
-acestream://a17551d216736d6f44d5af5101c06f1e0ca868d2/
+acestream://3b6440ef9a783d3b5051634e986c48d177811308/
 #EXTINF:0,TNT
-acestream://f5fc69fc7d9bd6c0d7e8f6ba740e81e346d5b02e/
+acestream://b88b662104c67218ff2d57ec9c9aa688d4aad2bf/
 #EXTINF:0,Film Box
-acestream://854572ce6fa376cbd9d19aaf465b4ca11fa961dd/
-#EXTINF:0,FilM Box HD
-acestream://854572ce6fa376cbd9d19aaf465b4ca11fa961dd/ 
+acestream://10afc82495d1e92762d4758a2c16033d53dc99a7/
+#EXTINF:0,Docu Box
+acestream://d8e47962d17f4066a12ccbc81e2fe8265c6a88c5/
 #EXTINF:0,Filmbox family
-acestream://a583c515691ebf8fd145a5492f00e9be7b78191c/
+acestream://e41dbb8c477d9b6dbdcb042e11642ed9f414a9af/
 #EXTINF:0,Film Cafe
-acestream://65df2563fde52bb3fc7d340941f80528f76bbc3b/
+acestream://fd4142b02f876ad8c46f72801b2963535cd771d3/
 #EXTINF:0,Film Cafe  serv 2
 acestream://71fcd3086d7f8b426c1f3ca568e84dfeb38e2de1/
 #EXTINF:0,KanalHD
 acestream://a9851aea4a78a85b72b33bbd2635b179d7425043/
 #EXTINF:0,Kanal D S2 
-acestream://3db8fd1388255b0911b01c8bc87a9e0cc4ea8fd0/ 
+acestream://6752a2b81aedcdd6cfef820c0376be3667e9b973/
 #EXTINF:0,TV 1000 
-acestream://a46b50b19ccb8295c4249c8989429f8167d1860a/ 
-#EXTINF:0,TV 1000 S2
-acestream://a46b50b19ccb8295c4249c8989429f8167d1860a/
+acestream://b45eb814198cc7673a8d7eb41395a4e5d552f024/
 #EXTINF:0,Kiss TV
 acestream://2e75721c71458630cf77df3e779b708d0169ec51/ 
 #EXTINF:0,BollyWood
-acestream://21ba23d7ec08860d8ef3177359e2c17377983d13/  
+acestream://8191251958061c63930bbc99faad64c713f838b2/
 #EXTINF:0,BollyWood Classic
 acestream://73eecb8056e6cff8d15d689cb6da38cf9024bda7/  
 #EXTINF:0,AxNsimple
@@ -170,7 +164,7 @@ acestream://90cccff239e20e38591b8c585739d98c9bf00bb6/
 #EXTINF:0,AXN Spin
 acestream://f29db6f3f2ea2649d26e85ecceeb91ee538b6e28/  
 #EXTINF:0,Happy Chnl
-acestream://26c6ff732cf764ab43f0f40421d6b8d80dd90ea9/  
+acestream://9d1e0b5fbdf565f534b2b23432eb8eed5f1e750f/  
 #EXTINF:0,Comedy Central
 acestream://877803c12d564997305515e85d149e9caca3cf47/  
 #EXTINF:0,Cartoon 
@@ -197,44 +191,34 @@ acestream://90812c96e5160bb0d2271d50e93e675a3632aef0/
 acestream://a31dc9f81c76e73f0fdb5e4e5700a40b67e500f7/
 #EXTINF:0,Nick Toons
 acestream://7367807dafa7d27af7615a4d1067a40cfe449ced/  
-#EXTINF:0,NatGeo,rge HD
-acestream://282a01fa33eb35aa867206a9634f5ab78c14e6f3/
 #EXTINF:0,NatGeo,rge 
 acestream://f83d60f3424235907660581d5b46c9241210931a/  
 #EXTINF:0,NatG3o salbatic
 acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/
 #EXTINF:0,NatG3o salbatic server 2
 acestream://6ffc5e411cb3054daa816592b28c1dff542848d8/  
-#EXTINF:0,Planeta animalelor serv 2 
-acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07/ 
-#EXTINF:0,Zu.pla
+#EXTINF:0,Zu
 acestream://1fdd032d312b2698f459d83aaf0fe8d0896a449d/  
 #EXTINF:0,VH 1 Europe
 acestream://8cb69525386533f81c042f9e02d254f01b71d00c/ 
 #EXTINF:0,Pro Gold
-acestream://7a4473e3d09af7a9c764b50700db785da21f2ebc/
+acestream://e59d255b4139d421300271eb9d3b0783ac3d1e4b/
 #EXTINF:0,Paramount Channel
-acestream://2014ffb126f9034e680f331cf4d1ea9a37366a23/
-#EXTINF:0,Paramount Channel Server 2
-acestream://a17551d216736d6f44d5af5101c06f1e0ca868d2/
+acestream://3b6440ef9a783d3b5051634e986c48d177811308/
 #EXTINF:0,Pimpletv.RU 
 acestream://955bc653f090c238b8d933b41d8a66fee1bf7893/
 #EXTINF:0,Pimpletv.RU S2
 acestream://98c11147917968aa911a1838bd10508194e291b2/
 #EXTINF:0,RTV 
-acestream://0c72ce84352f6a5c5c6210c3b6ed157cf726b121/
+acestream://2d355ecfc54aa4cae2a541e661d649cbb676eda3/
 #EXTINF:0,Antena 3
-acestream://259765059485cbaba1d2218d7521672bf29c9a51/
-#EXTINF:0,Antena 3 serv 2
-acestream://8fcd05942edfcbf1a2f06c3dd7c58a103d74c988/
-#EXTINF:0,Antena Stars
-acestream://82dde5e64f82fe508e75a1f18317b8c7f5b36ca3/
+acestream://2b21baec094a217005a88a4ec60c0890d9d7f2bb/
+#EXTINF:0,Antena Star
+acestream://cce40ccd0eac5551ad8e5cf935f9d96020517f43/
 #EXTINF:0,Diva
-acestream://6d795b960b1a81dfbfa32d6bf944a9ab4e274684/
+acestream://f1360670e24d04a620b810e9d242a8e3c6601605/
 #EXTINF:0,B1 TV
-acestream://ca469896c6dfde2b39b5ce84b4cf0504c6d8adb2/
-#EXTINF:0,B1 TV S2
-acestream://4936e7c604608700747740fa6146f97393fe120c/
+acestream://b1d1a013afc293a8aabe03f1812a33ed596e72f9/
 #EXTINF:0,Match Futbol 1 Ru
 acestream://42f9ab94f7d7142a46a3e9315a61c0d7f4ad0610/
 #EXTINF:0,Match Arena Ru
@@ -244,25 +228,25 @@ acestream://f568791fd70744443b9bf0343ac99015daab3d24/
 #EXTINF:0,Match Premier Ru
 acestream://73d8f7f6bc68b12878d73180fd06f0e3d211acfd/
 #EXTINF:0,Cinemaraton
-acestream://33607c250754a9e179795d77b424f907a6632e4c/
+acestream://8bcd000a40c015ca72e6bea352eb86826f9b28de/
 #EXTINF:0,Epic Drama
 acestream://8b40099da63d9bae22c8447dded2cb58ff56e81f/
 #EXTINF:0,Pro Gold
-acestream://ee0061d19e4b04fb92a1fcee31db143a0e985913/
+acestream://e59d255b4139d421300271eb9d3b0783ac3d1e4b/
 #EXTINF:0,Pro Intl
-acestream://da3dde828d8930af7e0953c2d9faaa71e2ecfb94/
+acestream://acbdebae66e45fa19d90e9263a52cd815cf7e999/
 #EXTINF:0,Mooz Tv
 acestream://e89389fb0cca61b18bf1d1cdcecf98fb36058b1e/
 #EXTINF:0,Trinitas TV
-acestream://8fa1433959b7396989b9d6c14cbeec39faa07161/
+acestream://c671edb231c38debaeacceeedc4854f572fb8d92/
 #EXTINF:0,Realitatea TV Plus
-acestream://f189266fd56439343c293cf92ed5ba01159dad6b/
+acestream://60b13e77ba82250fc14c5cf58e861d5eec5c94e8/
 #EXTINF:0,UTV
 acestream://45fa51cdde2bd37f55206a9a3814afc421e76fe8/
 #EXTINF:0,National TV
-acestream://88fb3268097b76539ffb4f283b155a1ee5c993c6/
+acestream://e3169b1015015320bdbf7081befc0d35fb9026d3/
 #EXTINF:0,National 24 plus
-acestream://63e1747ada2cbce92426b0d32ab87cf93f5ef106/
+acestream://2f9cb91286e76b10e6d1418fdf8417cee92150ef/
 #EXTINF:0,Minimax
 acestream://00137cf2cc16d1a7588c87567439d625f3478475/
 #EXTINF:0,Somax TV
@@ -285,12 +269,10 @@ acestream://bd595614e418f216b012bd1868c9085e96a48211/
 acestream://11f263ffbab0d110a639eb1fd141370dbf7515d7/
 #EXTINF:0,Comedy Est
 acestream://2f7cb5079d8f96663ed8ff9f0c2331d9455450ef/
-#EXTINF:0, Anews 24
-acestream://2763b875286e048605692dcf2916f0687fd9311d/
 #EXTINF:0, m2o TV
 acestream://b468bb8d3d5d3dc53a75d78a4e5c619cd0a0813d/
 #EXTINF:0, MTV
-acestream://31ff14d05a94a760615b607987bc43eade2867eb/
+acestream://06ed87043671fa4d3b132ed5d738b24284e38d1e/
 #EXTINF:0, MTV Hits
 acestream://ed2565a08a6b73b98eb9d19aa571ad465f77122e/
 #EXTINF:0, MTV Dance
@@ -317,3 +299,9 @@ acestream://b1b377b5b7eda1146b7652ec4692fa9bbbfd9ac9/
 acestream://951c02055ff5a1a74c2b848565851e09d85c8edf/
 #EXTINF:0, Publika MD
 acestream://ef4a9f99e4197d805c342588914bff2d32260e38/
+
+
+
+
+
+
