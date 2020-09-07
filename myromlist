@@ -6,7 +6,7 @@ acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/
 #EXTINF:0,Discovery ID
 acestream://abc847821d3f7c1a8ae19668aec5e01967e23e28/
 #EXTINF:0,Viasat History
-acestream://ffef0010c3c5b5dedf9c496a3d5177b2b8334a54/
+acestream://428306b01ec262d0ba1de65c526b020abd3e612e/
 #EXTINF:0,Viasat Explorer
 acestream://65e4201bd28fcaa1f0b52a293104381e51830ef9/  
 #EXTINF:0,Viasat Nature
@@ -90,7 +90,7 @@ acestream://fa94e8d679229ff8c4afb58100746e025e386beb/
 #EXTINF:0,TVR Int
 acestream://b218aaacad702fa2df851f07403735a421b37e8b/ 
 #EXTINF:0,TV Paprika, 
-acestream://ea5cff9add6776fb1b1ba3cef6be87a4aa7adcff/ 
+acestream://ea5cff9add6776fb1b1ba3cef6be87a4aa7adcff/
 #EXTINF:0,TVR Moldova
 acestream://730e10dbf8c42b3f6b54fa4e9e8fded69425239d/ 
 #EXTINF:0,TVR HD s3
@@ -102,7 +102,7 @@ acestream://d70a2d1dca843c315bd075cfccdc78d02f9a97a8/
 #EXTINF:0,BBC Earth
 acestream://d8ad9b1d966de683c47c7daac8cd85d60c0fd1db/    
 #EXTINF:0,Discovery Channel
-acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7  
+acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7/  
 #EXTINF:0,Discovery Crime inve
 acestream://b6e13f77adea8d80eb0911c44df97285402d28d4/  
 #EXTINF:0,History S1
@@ -152,41 +152,35 @@ acestream://b45eb814198cc7673a8d7eb41395a4e5d552f024/
 #EXTINF:0,Kiss TV
 acestream://2e75721c71458630cf77df3e779b708d0169ec51/ 
 #EXTINF:0,BollyWood
-acestream://8191251958061c63930bbc99faad64c713f838b2/
+acestream://8994c6fc0773aacd4f471410f99fb6e2edaca3d0/
 #EXTINF:0,BollyWood Classic
-acestream://73eecb8056e6cff8d15d689cb6da38cf9024bda7/  
+acestream://bd84bc93de94b5637de3f2031308e6ca4e65ec2c/  
 #EXTINF:0,AxNsimple
-acestream://960a2f2ac8d68ad42b4c889c8474e1c2181d8f96/  
+acestream://366833586acfbf0e5639cabf2520f531bbefe48c/  
 #EXTINF:0,AXN White
-acestream://f29db6f3f2ea2649d26e85ecceeb91ee538b6e28/  
+acestream://b45c32ecabee2dd5ef7f6f14bec994f239196c6f/  
 #EXTINF:0,AXN Black
-acestream://90cccff239e20e38591b8c585739d98c9bf00bb6/  
+acestream://be4153cd8fed20c2675349f2de197201d5ac5317/  
 #EXTINF:0,AXN Spin
-acestream://f29db6f3f2ea2649d26e85ecceeb91ee538b6e28/  
+acestream://562242beecb771b75c8ce84848eaf3fa8c41ce0e/  
 #EXTINF:0,Happy Chnl
 acestream://9d1e0b5fbdf565f534b2b23432eb8eed5f1e750f/  
 #EXTINF:0,Comedy Central
-acestream://877803c12d564997305515e85d149e9caca3cf47/  
+acestream://5f3ffb46ff1861ec8d99e64f2229b80cae477558/  
 #EXTINF:0,Cartoon 
-acestream://75e360a816a248f0911f1f84abf72a34b82a8738/
-#EXTINF:0,Cartoon S2
-acestream://4d9ce52fca8ce6e42a7a247baedf2e7c9b9a016f/  
+acestream://2a8732f19acd7749e678752c48d834e5fad184cd/ 
 #EXTINF:0,Disney 1
-acestream://a1e84032c2da876e2191b21101f423837b0c74b1/  
+acestream://b99e28710af16ebf8e72e61955fb31b9c244dfcd/
 #EXTINF:0,Disney Jr.
-acestream://2f3e3b42c24f779f20c89b3b125548a73350e538/  
+acestream://76c8ad2e9a88f07802b472e3e53ef3ffd52b5606/  
 #EXTINF:0,Boomerang
-acestream://b0a7335f9e31f02282983949ba3f238bba1da32f/
-#EXTINF:0,Disney Jr.serv 2
-acestream://2f3e3b42c24f779f20c89b3b125548a73350e538/  
+acestream://4babe6dba97b0d1dd6045197320b747403bc2e36/  
 #EXTINF:0,Minimax
-acestream://00137cf2cc16d1a7588c87567439d625f3478475/  
+acestream://54fca3d210fd7b03c70c982b5b8a1c7d31df7b3c/ 
 #EXTINF:0,Duck TV
 acestream://00137cf2cc16d1a7588c87567439d625f3478475/  
 #EXTINF:0,Nickelodeon
 acestream://db12109b0b1b048141a967e75a9acb2031477896/
-#EXTINF:0,Nickelodeon server 1
-acestream://90812c96e5160bb0d2271d50e93e675a3632aef0/  
 #EXTINF:0,Nick Jr
 acestream://a31dc9f81c76e73f0fdb5e4e5700a40b67e500f7/
 #EXTINF:0,Nick Toons
@@ -206,9 +200,7 @@ acestream://e59d255b4139d421300271eb9d3b0783ac3d1e4b/
 #EXTINF:0,Paramount Channel
 acestream://3b6440ef9a783d3b5051634e986c48d177811308/
 #EXTINF:0,Pimpletv.RU 
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893/
-#EXTINF:0,Pimpletv.RU S2
-acestream://98c11147917968aa911a1838bd10508194e291b2/
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187/
 #EXTINF:0,RTV 
 acestream://2d355ecfc54aa4cae2a541e661d649cbb676eda3/
 #EXTINF:0,Antena 3
@@ -268,7 +260,7 @@ acestream://bd595614e418f216b012bd1868c9085e96a48211/
 #EXTINF:0, Taraf TV
 acestream://11f263ffbab0d110a639eb1fd141370dbf7515d7/
 #EXTINF:0,Comedy Est
-acestream://2f7cb5079d8f96663ed8ff9f0c2331d9455450ef/
+acestream://940fecec39669dda5a1aea604d41323a85ef5678/
 #EXTINF:0, m2o TV
 acestream://b468bb8d3d5d3dc53a75d78a4e5c619cd0a0813d/
 #EXTINF:0, MTV
@@ -280,7 +272,7 @@ acestream://4e60d6dd3d902a875d5170d2fc11deda289d018c/
 #EXTINF:0,  Favorit TV
 acestream://11f263ffbab0d110a639eb1fd141370dbf7515d7/
 #EXTINF:0, Hora Tv
-acestream://3d38918eaec427038f179fa749298dd0b241fb9d/
+acestream://8f6a196c73ee1dba0f81f777a977159e631a8bee/
 #EXTINF:0, Alfa Omega tv
 acestream://2e480be39cf4039b6b5e4bff82505a9173a705d6/
 #EXTINF:0, Baby TV
@@ -291,16 +283,16 @@ acestream://420f0a1f9740ad7e71ba9544555e287234036a00/
 acestream://d95f6e242ad92ad9deebc4e3b5b7767c4fe14b6f/
 #EXTINF:0, 2 Muzica Rus
 acestream://8d3ec8e5a4ed4306945ee314dcf1353c011eec82/
-#EXTINF:0, Gigelsport4
-http://www.tv-sport-hd.com/channel/tvs.php?ch=d4
 #EXTINF:0, Telekanal Футбол
 acestream://b1b377b5b7eda1146b7652ec4692fa9bbbfd9ac9/
 #EXTINF:0,Матч! Футбол 3
 acestream://951c02055ff5a1a74c2b848565851e09d85c8edf/
 #EXTINF:0, Publika MD
 acestream://ef4a9f99e4197d805c342588914bff2d32260e38/
-
-
+#EXTINF:0, CNN
+acestream://a94663619c928aacf01fedbf2e10c2de1ae758b2/
+#EXTINF:0, ProTv HD
+acestream://658cd5315d0bf0d6cc54a5168f5365368f763076/
 
 
 
