@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Discovery Science
-acestream://2c7650d2f01102f03d397bfc4c46fb9a1d52fb67/
+acestream://25889503b73424e4af961a367e44d817709d9d08/
 #EXTINF:0,Discovery
 acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f/
 #EXTINF:0,Discovery ID
@@ -19,10 +19,8 @@ acestream://fa9af1e351abbe7b31e2ca4ff63cea15199f54b0/
 acestream://c2602cd1254592c8b4f7d23c389b6bccdbca27a5/
 #EXTINF:0,Animal planet
 acestream://80a39416b67fa8461a2c70e916909aaffb8cd15f/
-#EXTINF:0,E Entertainment
-acestream://01dced5b4868f54e4a519d3ecf101fa800dc0ccb/
 #EXTINF:0,Gigelsport 1
-acestream://5c40a2f57ec7ebea2fac05b60ea6e4065a1c0e97/
+acestream://1f509c6174961f57e46c315758a8762a46ea6124/
 #EXTINF:0,Crime investigation
 acestream://aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c/
 #EXTINF:0,Gigelsport 2
@@ -158,7 +156,7 @@ acestream://562242beecb771b75c8ce84848eaf3fa8c41ce0e/
 #EXTINF:0,Happy Chnl
 acestream://9d1e0b5fbdf565f534b2b23432eb8eed5f1e750f/  
 #EXTINF:0,Comedy Central
-acestream://5f3ffb46ff1861ec8d99e64f2229b80cae477558/  
+acestream://fb00e0681b6dbeeeee6ff1bf8d789bf8e0c56b28/  
 #EXTINF:0,Cartoon 
 acestream://2a8732f19acd7749e678752c48d834e5fad184cd/ 
 #EXTINF:0,Disney 1
@@ -288,6 +286,8 @@ acestream://ef4a9f99e4197d805c342588914bff2d32260e38/
 acestream://a94663619c928aacf01fedbf2e10c2de1ae758b2/
 #EXTINF:0, ProTv HD
 acestream://658cd5315d0bf0d6cc54a5168f5365368f763076/
+#EXTINF:0,Gigel-news
+acestream://a9bb9b2df0917f67eb4edcc985b9fc0a7c727539/
 
 
 
